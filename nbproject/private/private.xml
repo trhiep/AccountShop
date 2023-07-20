@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="All Code">
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/servlet/AdminLoginServlet.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/web/manager/orderManager.jsp</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/servlet/OrderManagerServlet.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/DAO/StockDAO.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/servlet/StockManagerServlet.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/DAO/OrdersDAO.java</file>
+            <file>file:/D:/Projects/JavaProjects/PRJ301_AccountShop/src/java/servlet/AddNewProductServlert.java</file>
+        </group>
+    </open-files>
+</project-private>
