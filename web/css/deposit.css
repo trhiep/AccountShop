@@ -1,0 +1,18 @@
+/* 
+    Created on : Jun 29, 2023, 10:21:43 PM
+    Author     : tranh
+*/
+
+.balanceDisplay {
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+}
+
+.balanceDisplay a{
+    background-color: mediumseagreen;
+    padding: 15px;
+    border-radius: 15px;
+}
+

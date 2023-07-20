@@ -1,0 +1,14 @@
+/* 
+    Created on : Jul 3, 2023, 4:04:15 PM
+    Author     : tranh
+*/
+
+.filterBox {
+    margin-top: 10px;
+    padding-left: 30px;
+    
+}
+
+.content {
+    display: grid;
+}

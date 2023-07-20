@@ -1,0 +1,27 @@
+/* 
+    Created on : Jun 27, 2023, 3:02:37 PM
+    Author     : tranh
+*/
+
+.addNewUsers {
+    max-width: 500px;
+    max-height: 400px;
+    margin: 20px 50px;
+    background-color: deepskyblue;
+    border-radius: 20px;
+}
+
+.addNewUsers .addFormHead {
+    width: 300px;
+    margin: 10px auto;
+}
+
+.addNewUsers .addFormContent {
+    width: 350px;
+    margin: 10px auto;
+}
+
+.addFormContent input {
+    width: 250px;
+    border-radius: 10px;
+}
